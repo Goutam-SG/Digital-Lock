@@ -1,1 +1,2 @@
 # Digital-Lock
+This a digital lock created using pure digital logic circuits without using any microcontrollers. Here the password is of 6 bit and a 4 bit scurity code option is there to change the password if someone forget it. One can give incorrect password only twice, and the 3rd time, buzzer will alert that someone is trying to enter. Different digital components like demux, registers, logic gates are used for this project. The NI Multisim 14.2 is used for designing of the project.
